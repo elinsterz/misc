@@ -1,0 +1,21 @@
+@font-face {
+    font-family:'AtlasGrotesk-Regular';
+    src: url('fonts/AtlasGrotesk-Regular.eot');
+    src: url('fonts/AtlasGrotesk-Regular.ttf');
+    format('truetype');
+}
+
+body{
+    background-color: rgb(179, 244, 222) !important; 
+}
+
+p{
+    font-family: 'AtlasGrotesk-Regular';
+    text-align: center;
+    color: black;
+    font-size:1em;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: 2pt;
+}
+
